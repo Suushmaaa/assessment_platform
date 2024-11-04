@@ -1,0 +1,149 @@
+{
+    "numerical ability ": {
+        "description": "Problems on Trains - General Questions",
+        "questions": [
+            {
+                "question_text": "\nA train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+                "type": "Multiple Choice",
+                "options": [
+                    "120 metres ",
+                    "180 metres",
+                    " 324 metres",
+                    " 150 metres"
+                ],
+                "correct_option": " 150 metres"
+            },
+            {
+                "question_text": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+                "type": "Multiple Choice",
+                "options": [
+                    "45 km/hr ",
+                    "50 km/hr",
+                    " 54 km/hr",
+                    " 55 km/hr"
+                ],
+                "correct_option": "50 km/hr"
+            },
+            {
+                "question_text": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+                "type": "Multiple Choice",
+                "options": [
+                    "200 m",
+                    " 225 m",
+                    " 245 m",
+                    " 250 m"
+                ],
+                "correct_option": " 245 m"
+            },
+            {
+                "question_text": "\nTwo trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+                "type": "Multiple Choice",
+                "options": [
+                    "1 : 3",
+                    " 3 : 2",
+                    " 3 : 4",
+                    " None of these"
+                ],
+                "correct_option": " 3 : 2"
+            }
+        ],
+        "status": "active",
+        "time_limit": 30,
+        "scheduled_date": "2024-11-01"
+    },
+    "mcq": {
+        "title": "mcq",
+        "description": "'epfoiugieop[s';.x",
+        "settings": {
+            "time_limit": 60,
+            "difficulty": "Easy",
+            "total_marks": 100
+        },
+        "questions": [
+            {
+                "question": "",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correct_option": "Option 1"
+            }
+        ],
+        "status": "Published",
+        "time_limit": 60
+    },
+    "ENGLISH": {
+        "title": "ENGLISH",
+        "description": "Find Verbal Ability questions and answers for interviews and entrance exams with explanations and PDF downloads. ",
+        "settings": {
+            "time_limit": 60,
+            "difficulty_level": "Easy",
+            "total_marks": 100
+        },
+        "questions": [
+            {
+                "type": "MCQ",
+                "text": "In the following questions choose the word which is the exact OPPOSITE of the given words.  1. ENORMOUS Soft Average Tiny Weak",
+                "options": [
+                    "Soft ",
+                    " Average",
+                    " Tiny",
+                    "Weak"
+                ],
+                "correct_option": "Soft "
+            },
+            {
+                "type": "MCQ",
+                "text": " COMMISSIONED Started Closed Finished Terminated",
+                "options": [
+                    "Started ",
+                    "Closed ",
+                    "Finished",
+                    "Terminated"
+                ],
+                "correct_option": "Started "
+            },
+            {
+                "type": "Descriptive",
+                "text": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.",
+                "answer_guide": "ANYTHING",
+                "min_words": 100
+            },
+            {
+                "type": "Descriptive",
+                "text": "But, we all helped in the first few days. Chandrapur is considered as a rural area.",
+                "answer_guide": "ANYTHING",
+                "min_words": 100
+            },
+            {
+                "type": "Descriptive",
+                "text": "nitially he was not getting adjusted to the city life. Now, Manohar is very proud of his colleagues. Before that he was working in chandrapur branch of our offic",
+                "answer_guide": "ANYTHING",
+                "min_words": 100
+            }
+        ],
+        "status": "active",
+        "time_limit": 60
+    },
+    "Verbal Ability questions ": {
+        "description": "In the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "time_limit": 60,
+        "difficulty_level": "Easy",
+        "total_marks": 100,
+        "questions": [
+            {
+                "type": "MCQ",
+                "text": "If you don't keep quiet I shall shoot you\", he said to her in a calm voice.",
+                "options": [
+                    "He said calmly that I shall shoot you if you don't be quiet.",
+                    "He warned her to shoot if she didn't keep quiet calmly. ",
+                    " He warned her calmly that he would shoot her if she didn't keep quiet.",
+                    "Calmly he warned her that be quiet or else he will have to shoot her."
+                ],
+                "correct_option": "He said calmly that I shall shoot you if you don't be quiet."
+            }
+        ]
+    }
+}

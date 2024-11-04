@@ -1,0 +1,30 @@
+{
+    "assessments": [
+        {
+            "name": "Math Assessment",
+            "details": {
+                "total_attempts": 100,
+                "average_score": 75,
+                "pass_rate": 0.8,
+                "individual_scores": [
+                    {"username": "user1", "score": 85},
+                    {"username": "user2", "score": 78},
+                    {"username": "user3", "score": 65}
+                ]
+            }
+        },
+        {
+            "name": "Science Assessment",
+            "details": {
+                "total_attempts": 150,
+                "average_score": 82,
+                "pass_rate": 0.75,
+                "individual_scores": [
+                    {"username": "user4", "score": 88},
+                    {"username": "user5", "score": 80},
+                    {"username": "user6", "score": 72}
+                ]
+            }
+        }
+    ]
+}

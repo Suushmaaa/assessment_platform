@@ -1,0 +1,22 @@
+{
+    "assessments": [
+        {
+            "name": "Numerical Ability",
+            "total_attempts": 100,
+            "average_score": 75,
+            "pass_rate": 0.8
+        },
+        {
+            "name": "Verbal Ability",
+            "total_attempts": 80,
+            "average_score": 85,
+            "pass_rate": 0.85
+        },
+        {
+            "name": "Logical Reasoning",
+            "total_attempts": 50,
+            "average_score": 90,
+            "pass_rate": 0.9
+        }
+    ]
+}
